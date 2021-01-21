@@ -1,0 +1,36 @@
+DirectoryC:\Users\owner\Desktop\File2Check\JPGs\jpg01
+Sha 256 Hash: e2b6a1152c40a4789a39c5c7c8da2dae0282e69d142bd0a9f4930daa142a8e8f
+Creation Time:Thu Jan 21 18:25:34 2021
+Modified Time: Sat Mar 28 19:27:59 2020
+Last Access? TimeThu Jan 21 18:30:45 2021
+
+DirectoryC:\Users\owner\Desktop\File2Check\JPGs\jpg02
+Sha 256 Hash: f856f6de431933e778ae18b87770955eb9ddaace4819ca0acc3061b23220c232
+Creation Time:Thu Jan 21 18:25:34 2021
+Modified Time: Wed Oct 29 00:18:19 2014
+Last Access? TimeThu Jan 21 18:30:45 2021
+
+DirectoryC:\Users\owner\Desktop\File2Check\JPGs\jpg05
+Sha 256 Hash: 792d8e992ba5d070dce719dd6fb599c56cbae8bb08c14067692912c1eb1290a2
+Creation Time:Thu Jan 21 18:25:34 2021
+Modified Time: Sat Mar 28 19:36:08 2020
+Last Access? TimeThu Jan 21 18:30:45 2021
+
+DirectoryC:\Users\owner\Desktop\File2Check\PDFs\pdf01.pdf
+Sha 256 Hash: f732bd37be3afcc5e4d1683bb918b0d42569942213d0a1626d7d0199882d4843
+Creation Time:Thu Jan 21 18:25:34 2021
+Modified Time: Sat Mar 28 19:43:13 2020
+Last Access? TimeThu Jan 21 18:30:45 2021
+
+DirectoryC:\Users\owner\Desktop\File2Check\file02.txt
+Sha 256 Hash: 230a041c7be63c978dacedd0f9560b706dd278e726ed9e6fba845d737ac88197
+Creation Time:Thu Jan 21 18:25:34 2021
+Modified Time: Sat Mar 28 19:48:29 2020
+Last Access TimeThu Jan 21 18:30:45 2021
+
+DirectoryC:\Users\owner\Desktop\File2Check\file03.pdf
+Sha 256 Hash: 792d8e992ba5d070dce719dd6fb599c56cbae8bb08c14067692912c1eb1290a2
+Creation Time:Thu Jan 21 18:25:34 2021
+Modified Time: Sat Mar 28 19:50:16 2020
+Last Access TimeThu Jan 21 18:30:45 2021
+
