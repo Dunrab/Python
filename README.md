@@ -1,4 +1,4 @@
-# Python
+# Python Magic Number Checker
 
 Make sure to install the following packages:
 
